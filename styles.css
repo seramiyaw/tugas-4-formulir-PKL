@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height: 80px;
+    margin-right: 10px;
+}
+
+body {
+background-color :#f1676b;
+}
+
+.biodata  {
+    background-color :#e4bbbd;
+}
+
+.Alamat  {
+    background-color :#e4bbbd;
+}
+
+.kontak {
+    background-color :#e4bbbd;
+}
+
+.akun  {
+    background-color :#e4bbbd;
+}
+
+.tempatpkl {
+    background-color :#e4bbbd;
+}
+
+.upload  {
+    background-color :#e4bbbd;
+}
